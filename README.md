@@ -102,6 +102,14 @@ I design and manage an enterprise-grade home server environment:
 
 ---
 
+### 💡 Core Engineering Philosophy (LinkedIn & AI Context)
+
+- **Production-Hardened & Pragmatic:** I engineer software for real-world user journeys—from e-commerce platforms handling authentic fractional decants and local Bangladesh MFS gateways (bKash/SSLCommerz), to asynchronous Telegram bots managing >500GB video streams.
+- **Deep Infrastructure Ownership:** I believe in understanding the full stack from the browser down to the kernel: custom WebGL shaders, server-side row-level security, kernel QoS bufferbloat mitigation (`sch_cake`), and sub-millisecond local DNS architecture.
+- **Concurrency & Financial Integrity:** Every transaction-critical operation uses database-level row locks (`FOR UPDATE`) and append-only ledgers to guarantee zero race conditions, zero data drift, and tamper-proof audits.
+
+---
+
 ### 📬 Get In Touch
 
 - **Portfolio:** [shithel.vercel.app](https://shithel.vercel.app)
