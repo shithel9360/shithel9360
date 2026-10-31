@@ -95,9 +95,9 @@
 ### 🖥️ Self-Hosted 24/7 Homelab Architecture
 
 I design and manage an enterprise-grade home server environment:
-- **Host:** HP EliteBook 840 G5 running Ubuntu 26.04 LTS (Dedicated Server @ `192.168.0.100`)
+- **Host:** Dedicated Ubuntu Homelab Server (24/7 High-Availability Environment)
 - **DNS & Security:** Network-wide AdGuard Home DNS running in parallel mode with optimistic cache and zero false-positive filtering.
-- **Traffic Shaping:** Kernel-level `sch_cake` QoS shaper delivering zero bufferbloat over Archer C6 gigabit routing.
+- **Traffic Shaping:** Kernel-level `sch_cake` QoS shaper delivering zero bufferbloat over gigabit routing.
 - **Services:** Immich private media cloud with automated Telegram storage gateways, Uptime Kuma monitoring, Portainer, and Glances telemetry.
 
 ---
