@@ -1,16 +1,16 @@
 <div align="center">
 
 # 💫 Shoayibul Islam Shithel
-### Software Engineer & Computer Science Undergraduate @ AIUB
+### Software Engineer & Computer Science Student @ AIUB
 **Dhaka, Bangladesh 🇧🇩**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shithel.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://shithel.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shithel.me-10b981?style=for-the-badge&logo=globe&logoColor=white)](https://shithel.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shoayibul_Islam_Shithel-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoayibul-islam-shithel-539802310)
 [![GitHub](https://img.shields.io/badge/GitHub-shithel9360-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shithel9360)
 
 <br/>
 
-> *"Building software, automations, and scalable systems that actually work."*
+> *"Building practical web apps, backend systems, and self-hosted infrastructure."*
 
 </div>
 
@@ -18,38 +18,38 @@
 
 ### 🚀 About Me
 
-- 🎓 **Undergraduate:** Computer Science & Engineering at **American International University-Bangladesh (AIUB)**
-- 💻 **Focus Areas:** Scalable Web Platforms, Full-Stack Architecture, Asynchronous Automation, Low-Latency Networking & Self-Hosted Infrastructure
-- 📸 **Flagship Work:** Architect of **[The Perfume Shop](https://github.com/shithel9360/perfume-shop)** (Turnkey luxury e-commerce with 3D WebGL crystal flacon, native decant variants, and bKash / SSLCommerz payment infrastructure)
-- 🖥️ **Homelab Enthusiast:** Maintain a dedicated 24/7 Ubuntu homelab server featuring local DNS, network-wide ad blocking, CAKE bufferbloat mitigation, and self-hosted cloud storage
+- 🎓 **Education:** Computer Science & Engineering undergraduate at **American International University-Bangladesh (AIUB)**
+- 💻 **Focus Areas:** Full-Stack Web Development, Modern Web Platforms, Backend Services, and Linux Infrastructure
+- 📸 **Latest Work:** **[The Perfume Shop](https://github.com/shithel9360/perfume-shop)** — Full-featured luxury fragrance e-commerce with 3D product preview, decant sizing, and local payment integration (bKash & SSLCommerz)
+- 🖥️ **Homelab:** Maintain a dedicated 24/7 Ubuntu homelab server for local utilities, Docker container services, and network management
 
 ---
 
-### 🛠️ Technical Taxonomy
+### 🛠️ Skills & Technologies
 
 <table>
   <tr>
     <td width="25%" valign="top"><strong>Languages</strong></td>
     <td width="75%">
-      <code>Python</code> · <code>C++</code> · <code>Java</code> · <code>C# (.NET)</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>SQL</code> · <code>Bash</code>
+      <code>C / C++</code> · <code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Java</code> · <code>C# (.NET)</code> · <code>SQL</code> · <code>Bash</code>
     </td>
   </tr>
   <tr>
     <td width="25%" valign="top"><strong>Frontend & Web</strong></td>
     <td width="75%">
-      <code>Next.js 14/15/16</code> · <code>React 19</code> · <code>Three.js (WebGL)</code> · <code>Tailwind CSS</code> · <code>Vite</code> · <code>Framer Motion</code>
+      <code>Next.js</code> · <code>React</code> · <code>Three.js</code> · <code>Tailwind CSS</code> · <code>Vite</code> · <code>HTML5 & CSS3</code>
     </td>
   </tr>
   <tr>
     <td width="25%" valign="top"><strong>Backend & Data</strong></td>
     <td width="75%">
-      <code>Node.js</code> · <code>PostgreSQL</code> · <code>Prisma ORM</code> · <code>Supabase</code> · <code>AsyncIO</code> · <code>Telethon</code> · <code>REST APIs</code> · <code>Payment Gateways (bKash Tokenized, SSLCommerz)</code>
+      <code>Node.js</code> · <code>PostgreSQL</code> · <code>Prisma ORM</code> · <code>Supabase</code> · <code>REST APIs</code> · <code>Payment Gateways (bKash, SSLCommerz)</code>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><strong>DevOps & Infrastructure</strong></td>
+    <td width="25%" valign="top"><strong>DevOps & Tools</strong></td>
     <td width="75%">
-      <code>Linux (Ubuntu Server)</code> · <code>Docker & Docker Compose</code> · <code>systemd</code> · <code>AdGuard Home DNS</code> · <code>Tailscale Mesh VPN</code> · <code>CAKE QoS</code> · <code>FFmpeg</code> · <code>yt-dlp</code>
+      <code>Linux (Ubuntu Server)</code> · <code>Docker & Docker Compose</code> · <code>systemd</code> · <code>Nginx</code> · <code>AdGuard Home</code> · <code>Git & GitHub</code>
     </td>
   </tr>
 </table>
@@ -59,60 +59,48 @@
 ### 🌟 Featured Projects
 
 #### 1. [The Perfume Shop](https://github.com/shithel9360/perfume-shop)
-> **Turnkey Luxury Fragrance E-Commerce & 3D WebGL Platform**
-- **Tech Stack:** Next.js (App Router), React 19, Three.js (WebGL), Tailwind CSS, Prisma, PostgreSQL
+> **E-Commerce Web Platform for Fragrance Boutiques**
+- **Tech Stack:** Next.js (App Router), React, Three.js, Tailwind CSS, Prisma, PostgreSQL
 - **Highlights:**
-  - Interactive 3D crystal flacon with physically-based dynamic liquid shaders and note pyramid breakdown.
-  - Native decants (2ml, 5ml, 10ml) and discovery sets with atomic pricing rules.
-  - Complete Bangladesh payment gateways: bKash Tokenized Merchant API, SSLCommerz, and COD.
-  - Comprehensive `/admin` ERP with live revenue analytics, audit logging, and atomic order state machine.
-- 🔗 **[Live Store Demo](https://perfume-shop-demo.vercel.app/)** · **[GitHub Repository](https://github.com/shithel9360/perfume-shop)**
+  - Interactive 3D perfume bottle viewer built with Three.js
+  - Decant sample sizing (2ml, 5ml, 10ml) with dynamic pricing rules
+  - Local payment integration with bKash and SSLCommerz
+  - Administrative dashboard for order management and real-time inventory updates
+- 🔗 **[Live Demo](https://perfume-shop-demo.vercel.app/)** · **[GitHub Repository](https://github.com/shithel9360/perfume-shop)**
 
-#### 2. [CenonMate](https://github.com/shithel9360/cenonmate)
-> **AI-Powered Video Creation Platform**
-- **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, AI Integrations
-- **Highlights:** Generates, edits, and processes videos in the cloud with custom 3D tilt hero visuals.
-- 🔗 **[Live Application](https://cenonmate.vercel.app/)** · **[GitHub Repository](https://github.com/shithel9360/cenonmate)**
-
-#### 3. [KaajBondhu](https://github.com/shithel9360/kaajbondhu)
-> **Local Service Marketplace**
+#### 2. [KaajBondhu](https://github.com/shithel9360/kaajbondhu)
+> **Local Services Marketplace**
 - **Tech Stack:** React, Vite, Supabase, PostgreSQL, Tailwind CSS
-- **Highlights:** Provider/customer workflows, real-time job booking lifecycles, and integrated financial ledger.
-- 🔗 **[Live Platform](https://kaajbondhu.vercel.app/)** · **[GitHub Repository](https://github.com/shithel9360/kaajbondhu)**
+- **Highlights:** User authentication, service listings, booking workflows, and review management.
+- 🔗 **[Live Demo](https://kaajbondhu.vercel.app/)** · **[GitHub Repository](https://github.com/shithel9360/kaajbondhu)**
 
-#### 4. [Universal Telegram Converter Bot](https://github.com/shithel9360/telegram-converter-bot)
-> **Multimodal Automation Bot**
-- **Tech Stack:** Python, RemBG, Gemini Vision AI, Whisper AI, Tesseract OCR, FFmpeg
-- **Highlights:** Neural background removal, 35x45mm passport photo generator, Bengali handwriting OCR, and speech-to-text audio transcription.
+#### 3. [Newzora](https://github.com/shithel9360/newzora)
+> **Tech News Website**
+- **Tech Stack:** JavaScript, Node.js, HTML5, CSS3, Schema.org, Google News SEO
+- **Highlights:** Fast, lightweight news platform with automated publishing, Google News XML sitemaps, and RSS feeds.
+- 🔗 **[Live Demo](https://newzora-web.vercel.app)** · **[GitHub Repository](https://github.com/shithel9360/newzora)**
 
-#### 5. [Telegram Media Downloader](https://github.com/shithel9360/telegram-media-downloader)
-> **High-Performance Asynchronous Media Downloader**
-- **Tech Stack:** Python, Telethon, AsyncIO, yt-dlp, FFmpeg, TikWM
-- **Highlights:** High-speed streaming downloader with automatic >2GB chunking and multi-platform media support.
-
----
-
-### 🖥️ Self-Hosted 24/7 Homelab Architecture
-
-I design and manage an enterprise-grade home server environment:
-- **Host:** Dedicated Ubuntu Homelab Server (24/7 High-Availability Environment)
-- **DNS & Security:** Network-wide AdGuard Home DNS running in parallel mode with optimistic cache and zero false-positive filtering.
-- **Traffic Shaping:** Kernel-level `sch_cake` QoS shaper delivering zero bufferbloat over gigabit routing.
-- **Services:** Immich private media cloud with automated Telegram storage gateways, Uptime Kuma monitoring, Portainer, and Glances telemetry.
+#### 4. [C Algorithms & Problem Solving](https://github.com/shithel9360/phitron-c-programming)
+> **Data Structures & Algorithms Repository**
+- **Tech Stack:** C, Algorithms, Data Structures, Pointers & Memory
+- **Highlights:** 120+ solved computational problems across Codeforces, HackerRank, and AtCoder with focus on efficiency and clean memory management.
+- 🔗 **[GitHub Repository](https://github.com/shithel9360/phitron-c-programming)**
 
 ---
 
-### 💡 Core Engineering Philosophy (LinkedIn & AI Context)
+### 🖥️ Homelab & Infrastructure
 
-- **Production-Hardened & Pragmatic:** I engineer software for real-world user journeys—from e-commerce platforms handling authentic fractional decants and local Bangladesh MFS gateways (bKash/SSLCommerz), to asynchronous Telegram bots managing >500GB video streams.
-- **Deep Infrastructure Ownership:** I believe in understanding the full stack from the browser down to the kernel: custom WebGL shaders, server-side row-level security, kernel QoS bufferbloat mitigation (`sch_cake`), and sub-millisecond local DNS architecture.
-- **Concurrency & Financial Integrity:** Every transaction-critical operation uses database-level row locks (`FOR UPDATE`) and append-only ledgers to guarantee zero race conditions, zero data drift, and tamper-proof audits.
+I run a personal home server environment for learning and self-hosted development:
+- **Dedicated Ubuntu Machine:** 24/7 dedicated hardware running containerized services
+- **Docker Containers:** Isolated development environments and self-hosted apps
+- **DNS & Network:** Nginx reverse proxy with automated SSL and AdGuard Home local caching
+- **Private Storage:** Secure personal backups and media storage accessible via encrypted tunnels
 
 ---
 
-### 📬 Get In Touch
+### 📬 Contact & Connect
 
-- **Portfolio:** [shithel.vercel.app](https://shithel.vercel.app)
+- **Portfolio:** [shithel.me](https://shithel.me)
 - **LinkedIn:** [linkedin.com/in/shoayibul-islam-shithel-539802310](https://www.linkedin.com/in/shoayibul-islam-shithel-539802310)
 - **Email:** [shithel9360@users.noreply.github.com](mailto:shithel9360@users.noreply.github.com)
 - **Location:** Dhaka, Bangladesh (UTC+6)
